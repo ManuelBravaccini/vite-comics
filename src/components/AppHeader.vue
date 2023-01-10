@@ -51,7 +51,7 @@ export default {
 
 <template>
     <header>
-        <div class="my_container">
+        <div class="my-container">
             <nav>
                 <div class="main-logo">
                     <img src="../assets/img/dc-logo.png" alt="DC logo">
