@@ -23,11 +23,11 @@ main {
     background-color: $main-dark-bg;
     color: white;
     height: 150px;
-}
 
-div.my-container {
-    display: flex;
-    height: 100%;
-    align-items: center;
+    div.my-container {
+        display: flex;
+        height: 100%;
+        align-items: center;
+    }
 }
 </style>
